@@ -1,3 +1,7 @@
+```
+Original repo - https://github.com/jamiepine/prismix
+```
+
 # `Prismix`
  
 ### *The Prisma schema mixer 🍹*

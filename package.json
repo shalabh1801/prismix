@@ -1,6 +1,6 @@
 {
-  "name": "prismix",
-  "version": "1.0.19",
+  "name": "prismerge",
+  "version": "1.0.0",
   "description": "Create multiple Prisma schema files with shared model relations.",
   "keywords": [
     "prisma",
@@ -49,7 +49,7 @@
     "dotenv": "^10.0.0"
   },
   "bin": {
-    "prismix": "./bin/run"
+    "prismerge": "./bin/run"
   },
   "oclif": {
     "bin": "prisma-merge"
